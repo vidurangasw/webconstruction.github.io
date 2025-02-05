@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Under Construction</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            text-align: center;
+        }
+        
+        .container {
+            padding: 2rem;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            max-width: 600px;
+            margin: 20px;
+        }
+        
+        h1 {
+            color: #333;
+            margin-bottom: 1rem;
+        }
+        
+        p {
+            color: #666;
+            line-height: 1.6;
+        }
+        
+        .icon {
+            font-size: 4rem;
+            margin-bottom: 1rem;
+        }
+        
+        .contact {
+            margin-top: 2rem;
+            font-size: 0.9rem;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="icon">🏗️</div>
+        <h1>Website Under Construction</h1>
+        <p>We're working hard to bring you something amazing. Our new website will be launching soon!</p>
+        <div class="contact">
+            <p>For inquiries, please contact: <br>
+            email@yourdomain.com</p>
+        </div>
+    </div>
+</body>
+</html>
